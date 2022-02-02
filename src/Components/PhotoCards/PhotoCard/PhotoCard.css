@@ -1,0 +1,69 @@
+.photocard-container{
+    width: 33%;
+    height: 360px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.photocard-div{
+    width: 90%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    border-radius: 6px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    overflow: hidden;
+}
+.photocard-image{
+    width: 100%;
+    height: 50%;
+    position: relative;
+}
+.photocard-image img{
+    width: 100%;
+    height: 270px;
+    position: absolute;
+    left: 0;
+    top: -66%;
+}
+.photocard-content{
+    width: 100%;
+    height: 50%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
+.photocard-content-title{
+    width: 100%;
+    height: 50%;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 1.8vw;
+    font-weight: 630;
+}
+.photocard-content-tag{
+    display: flex;
+    padding-left: 20px;
+}
+.photocard-content-button{
+    width: 35%;
+    height: 60px;
+    border-radius: 5px;
+    color:white;
+    background-color: #171719;
+    padding-left: 10px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.photocard-button-content{
+    display: flex;
+    font-size: 1vw;
+}
+.photocard-button-id{
+    font-size: 0.75vw;
+    color:#9a9a9b;
+}
