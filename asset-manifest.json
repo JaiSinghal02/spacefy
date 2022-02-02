@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/spacefy/static/css/main.6965ecd2.css",
+    "main.js": "/spacefy/static/js/main.4e93e7e9.js",
+    "static/media/diamond.png": "/spacefy/static/media/diamond.b67a07b0bb507831ab35.png",
+    "static/media/cyclone.png": "/spacefy/static/media/cyclone.5f2c642e3465b70a779f.png",
+    "static/media/monkey.png": "/spacefy/static/media/monkey.0abbe6507857e4612b93.png",
+    "static/media/temple.png": "/spacefy/static/media/temple.ea34f2f32e7eb2903f45.png",
+    "static/media/flame.png": "/spacefy/static/media/flame.0019d60427b0eb57ae03.png",
+    "static/media/tick-sign.png": "/spacefy/static/media/tick-sign.81fc57aabe273a538f76.png",
+    "index.html": "/spacefy/index.html",
+    "main.6965ecd2.css.map": "/spacefy/static/css/main.6965ecd2.css.map",
+    "main.4e93e7e9.js.map": "/spacefy/static/js/main.4e93e7e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6965ecd2.css",
+    "static/js/main.4e93e7e9.js"
+  ]
+}
